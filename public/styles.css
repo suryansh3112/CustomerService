@@ -2,3 +2,7 @@
   width: 500px;
   margin: 50px auto;
 }
+
+.card button {
+  margin-bottom: 10px;
+}

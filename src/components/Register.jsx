@@ -7,6 +7,7 @@ function Register() {
 
   function handleRegister(e) {
     e.preventDefault();
+    let message = "Something went wrong";
     console.log(info);
     const config = {
       headers: {
